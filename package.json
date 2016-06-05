@@ -1,0 +1,18 @@
+{
+  "name": "volunteer-computing-backend",
+  "version": "0.1.0",
+  "description": "Volunteer Computing Project Backend",
+  "scripts": {
+    "start": "node ./bin/start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazet15/volunteer-computing-backend.git"
+  },
+  "author": "kazet",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-es2016-node5": "1.1.2",
+    "babel-register": "6.9.0"
+  }
+}
